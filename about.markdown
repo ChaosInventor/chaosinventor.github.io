@@ -4,15 +4,81 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a person who loves science and technology. I enjoy working on those subjects
+and learning about them. My interest extend to virtually all domains knowledge,
+from the formalities of mathematics, the observations and experiments of the
+natural sciences and to the arts.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I primarily work on software and theory, but am always looking for an exciting
+novel endeavor.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Contact
 
+[Send me an email](mailto:chaosinventor@yandex.com) or find me on:
 
-[jekyll-organization]: https://github.com/jekyll
+- [Github](https://github.com/ChaosInventor)
+- [Reddit](https://www.reddit.com/u/ChaosInventorr)
+- [HackerNews](https://news.ycombinator.com/user?id=ChaosInventor)
+
+### Public key
+
+I sign most of my work with the following pgp key:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+wAVPLUJoE0tmNH13FAKCYg==
+=/VvS
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
+
+Use it for authentication if you wish, or to send encrypted data to me, for
+whatever reason you may have.
